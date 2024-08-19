@@ -1,0 +1,13 @@
+C:\Users\Qwert\Desktop\лабораторные\ССП\4 лаба\код\4lab\bin\Debug\4lab.exe.config
+C:\Users\Qwert\Desktop\лабораторные\ССП\4 лаба\код\4lab\bin\Debug\4lab.exe
+C:\Users\Qwert\Desktop\лабораторные\ССП\4 лаба\код\4lab\bin\Debug\4lab.pdb
+C:\Users\Qwert\Desktop\лабораторные\ССП\4 лаба\код\4lab\bin\Debug\Library.dll
+C:\Users\Qwert\Desktop\лабораторные\ССП\4 лаба\код\4lab\bin\Debug\Library.pdb
+C:\Users\Qwert\Desktop\лабораторные\ССП\4 лаба\код\4lab\obj\Debug\4lab.csproj.AssemblyReference.cache
+C:\Users\Qwert\Desktop\лабораторные\ССП\4 лаба\код\4lab\obj\Debug\_4lab.Form1.resources
+C:\Users\Qwert\Desktop\лабораторные\ССП\4 лаба\код\4lab\obj\Debug\_4lab.Properties.Resources.resources
+C:\Users\Qwert\Desktop\лабораторные\ССП\4 лаба\код\4lab\obj\Debug\4lab.csproj.GenerateResource.cache
+C:\Users\Qwert\Desktop\лабораторные\ССП\4 лаба\код\4lab\obj\Debug\4lab.csproj.CoreCompileInputs.cache
+C:\Users\Qwert\Desktop\лабораторные\ССП\4 лаба\код\4lab\obj\Debug\4lab.csproj.CopyComplete
+C:\Users\Qwert\Desktop\лабораторные\ССП\4 лаба\код\4lab\obj\Debug\4lab.exe
+C:\Users\Qwert\Desktop\лабораторные\ССП\4 лаба\код\4lab\obj\Debug\4lab.pdb
